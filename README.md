@@ -12,7 +12,7 @@ https://lindseym20.github.io/Random-Password-Generator/
 
 ## Description:
 
-Here you will find files for a dynamic website that will generate a random password for the user. The program takes in several inputs, confirming whether the user would like to include uppercase letters, lowercase letters, numbers, and special characters and then prompting the user for a desired password character length. The generator accounts for uncooperative users, reprompting them for valid inputs.
+Here you will find files for a dynamic application that will run in the browser to generate a random password for the user. The program takes in several inputs, confirming whether the user would like to include uppercase letters, lowercase letters, numbers, and/or special characters and then prompting the user for their desired password character length. The generator accounts for uncooperative users, reprompting them for valid inputs. This application features dynamically updated HTML and CSS driven by JavaScript, rolled into a user interface that is clean and mobile responsive.
 
 
 ## Installation:

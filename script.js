@@ -80,7 +80,7 @@ function generatePassword() {
     approvedChars = approvedChars.concat(specialChars);
     guaranteedChars.push(getRandom(specialChars));
   }
-  
+
   for (var i = 0; i < options.length; i++) {
     results.push(getRandom(approvedChars))
   }
