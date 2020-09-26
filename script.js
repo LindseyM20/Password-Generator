@@ -20,7 +20,7 @@ function getCategories() {
   if (!confirmUpper && !confirmLower && !confirmNumber && !confirmChars) {
     alert("Must choose at least one character type.")
     // ...go back to line 14
-    return;
+    return getCategories();
   }
 
   // Determine length
