@@ -4,9 +4,9 @@
 
 ## Find this project at: 
 
-https://github.com/LindseyM20/Random-Password-Generator
+https://github.com/LindseyM20/random-password-generator
 
-https://lindseym20.github.io/Random-Password-Generator/
+https://lindseym20.github.io/random-password-generator/
 
 
 
